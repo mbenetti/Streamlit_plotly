@@ -4,12 +4,11 @@ Useful snipped of code to enbedded Plotly graphics in your streamlit webapp
 Clone the repo:
 
 ```
-git clone .........
-
+git clone https://github.com/mbenetti/Streamlit_plotly.git
 ```
 
 ```
-cd .....
+cd Streamlit_plotly
 streamlit run app.py
 
 ```
