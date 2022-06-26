@@ -19,3 +19,4 @@ For a complete tutorial on Plotly, please visit my previous repo about the topic
 
 https://github.com/mbenetti/Plotly-for-DataScience.git
 
+![plotly03](https://user-images.githubusercontent.com/27162948/175810150-d7b0ce3f-392e-429f-9d11-554981c6000f.gif)
