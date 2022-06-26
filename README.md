@@ -1,4 +1,4 @@
-# Streamlit_plotly
+# Streamlit and plotly visualizations
 Useful snipped of code to enbedded Plotly graphics in your streamlit webapp
 
 Clone the repo:
